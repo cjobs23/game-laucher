@@ -52,7 +52,7 @@ namespace BF2ModLauncher
 			{
 				ModPath = Path.Combine(basePath, "mods", "bf2rw"),
 				ModName = "RW3",
-				RemoteBaseUrl = "https://playbf2.ru/u/rw31",
+				RemoteBaseUrl = "https://host/u/rw31",
 				LogFilePath = Path.Combine(basePath, "launcher.log")
 			};
 
@@ -138,7 +138,7 @@ namespace BF2ModLauncher
 			};
 			telegramButton.Click += (s, e) => Process.Start(new ProcessStartInfo
 			{
-				FileName = "https://t.me/+GYlG8mMzTlYzZmJi",
+				FileName = "link",
 				UseShellExecute = true
 			});
 
