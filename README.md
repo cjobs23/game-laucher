@@ -17,11 +17,7 @@ BF2 Mod Launcher is a Windows Forms application designed to manage and launch mo
 - .NET Framework 4.7.2 or later
 - Battlefield 2 installed on your system
 
-### Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/bf2-mod-launcher.git
 Open the Solution:
 
 Open the BF2ModLauncher.sln file in Visual Studio.
